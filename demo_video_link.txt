@@ -1,0 +1,10 @@
+Demo video file:
+media/case_a_demo_video_compressed.mp4
+
+Optional upload recommendation:
+1. The compressed .mp4 can be committed directly to the public demo repository.
+2. A higher-quality local video source can optionally be uploaded to a GitHub Release or external video platform.
+3. If an external URL is created, add it to README.md.
+
+Note:
+Large local video files should not be committed directly to git.

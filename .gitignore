@@ -1,0 +1,14 @@
+*.mov
+*.mp4
+!media/case_a_demo_video_compressed.mp4
+*.avi
+*.mkv
+logs/
+*.bag
+*.db3
+*.mcap
+__pycache__/
+.DS_Store
+episodes.csv
+action_scores.csv
+*.jsonl
