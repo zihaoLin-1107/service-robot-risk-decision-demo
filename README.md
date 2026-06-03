@@ -33,7 +33,9 @@ selected_action = cautious_handover
 
 The clip shows that the `selected_action` from the decision sandbox can be mapped to ROS/Webots/RViz execution branches: navigation goal, arm pose sequence, marker visualization, and run log.
 
-Video file: [`media/case_a_demo_video_compressed.mp4`](media/case_a_demo_video_compressed.mp4)
+[![Case A demo video](media/demo_thumbnail.png)](media/case_a_demo_video_compressed.mp4)
+
+Click the thumbnail above to watch the compressed Case A Webots/RViz branch-mapping demo.
 
 Note: the compressed `.mp4` is small enough to keep in the public demo repository. Higher-quality video sources are kept outside this public repository.
 
